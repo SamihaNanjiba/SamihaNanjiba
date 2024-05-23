@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello World! I'm Samiha 👋
 
-<!--
-**SamihaNanjiba/SamihaNanjiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 I completed my Bachelor's in Computer Science and Engineering from [BRAC University](https://www.bracu.ac.bd/)
+- 👩‍🎓 Obtained my Master's degree in Distributed Systems Engineering from [TU Dresden](https://tu-dresden.de/)
+- 🌟 Enthusiastic about programming
+- ✈️ Enjoy travelling, 📖 reading and 🎮 playing games sometimes
+- 📚 Eager to learning something new everyday, no matter something big or small
+- 🌐 Visit my personal website: [samihananjiba.dev](https://samihananjiba.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: JavaScript/TypeScript, Java
+- **Frameworks**: React, Vue.js, Node.js, Express.js, Tailwind CSS
+- **Tools**: Git, Docker, Terraform
+
+## Let's Connect!
+
+<a href="https://www.linkedin.com/in/samiha-nanjiba/" target="_blank"><img src="./images/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
