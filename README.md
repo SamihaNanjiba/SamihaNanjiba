@@ -6,7 +6,7 @@
 - 👩‍🎓 Obtained my Master's degree in Distributed Systems Engineering from [TU Dresden](https://tu-dresden.de/)
 - 🌟 Enthusiastic about programming
 - ✈️ Enjoy travelling, 📖 reading and 🎮 playing games sometimes
-- 📚 Eager to learning something new everyday, no matter something big or small
+- 📚 Eager to learn something new every day, no matter something big or small
 - 🌐 Visit my personal website: [samihananjiba.dev](https://samihananjiba.dev)
 
 ## Skills
